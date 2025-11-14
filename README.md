@@ -1,69 +1,102 @@
-  # ✨ MERVAN ÖZGÖNÜL ✨
-**Full-Stack Junior Developer • Designer • GIS**
+<!-- FULL WIDTH 3D SPIDERMAN HEADER -->
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp6291491.gif" width="100%" alt="spiderman" />
+</p>
+
+<!-- NEON FRAME USING PNG (GitHub Compatible) -->
+<p align="center">
+  <img src="https://svgshare.com/i/18aZ.svg" width="90%" />
+</p>
+
+<h1 align="center">🕷️ MERVAN ÖZGÖNÜL</h1>
+<h3 align="center">Full-Stack Developer • Designer • GIS</h3>
+
+
+
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=600&color=FF0040&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2B+Node+%2B+PostgreSQL;UI+Designer+and+GIS+Specialist" />
+</p>
+
+---
+
+<!-- REZIT CUSTOM LOGO BANNER -->
+<p align="center">
+  <img src="https://svgshare.com/i/18ZC.svg" width="420" />
+</p>
+
+<p align="center"><b>Rezit — Luxury Reservation System (version-1.0)</b></p>
+
+---
+
+## 🛒 Etsy Shop  
+<p align="center">
+  <a href="https://www.etsy.com/shop/MERYKSI">
+    <img src="https://img.shields.io/badge/Visit%20Etsy%20Shop-FF7F2A?style=for-the-badge&logo=etsy&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Personal Website  
+<p align="center">
+  <a href="https://mervanozg.github.io/personal_web_page/">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🧰 Custom Skill Badges (Special Design)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=6cc24a" />
+  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=30658d" />
+  <img src="https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-121212?style=for-the-badge&logo=jsonwebtokens&logoColor=ff0040" />
+  <img src="https://img.shields.io/badge/Multer-121212?style=for-the-badge&logo=nodedotjs&logoColor=yellow" />
+</p>
+
+---
+
+# 🔥 Rezit — Technologies
+
+| Category       | Technology                                |
+|----------------|--------------------------------------------|
+| **Frontend**   | React 19, Vite, React Router               |
+| **Backend**    | Node.js, Express 5                         |
+| **Database**   | PostgreSQL + node-postgres (pg)            |
+| **Security**   | JWT, bcrypt, Nonce                         |
+| **i18n**       | i18next (TR/EN)                            |
+| **Testing**    | Jest, Supertest                            |
+| **Uploads**    | Multer                                     |
+
+---
+
+# ⚡ Features
+- 🪑 Interactive seat map  
+- 🔐 JWT + bcrypt secure auth  
+- 🌍 TR/EN multilingual  
+- 🚀 Vite + React 19 ultra-fast UI  
+- 🧪 Tested backend endpoints  
+- 📁 Super Admin + Multer upload  
+- 🗄️ PostgreSQL relational schema  
+- 🕹 Custom seat reservation UX  
+
+---
+
+
+# 💬 Contact  
+- ✉️ Email: **mervanozg@gmail.com**  
+- 🛒 Etsy: **MERYKSI**  
+- 🌐 Portfolio Repo: `mervanozg/personal_web_page`  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C4DFF&width=700&lines=Building+web+apps+%26+digital+products;React+%2B+Node+%2B+MongoDB;Design+%E2%9D%A4%EF%B8%8F+Logos+%26+UI" alt="typing" />
+  <img src="https://media1.giphy.com/media/uSYQsJQWEhko8/200.gif" width="210" />
 </p>
 
----
+<h3 align="center">⭐ If you like this profile, star a repo — it motivates me!</h3>
 
-## 🚀 About Me
-- 👋 Hi — I'm **Mervan Özgönül**, a Full-Stack Developer and Designer.  
-- 💻 I build responsive web apps, admin panels, and e-commerce tools.  
-- 🎨 I also design logos, digital assets, and sell on Etsy.  
-- 🌱 Currently developing **Rezit** (seat reservation system) — `version-1.0` branch.
-
----
-
-## 🛒 Etsy Shop
-[![Etsy Shop](https://img.shields.io/badge/Visit%20My%20Etsy%20Shop-FF9900?style=for-the-badge&logo=etsy&logoColor=white)](https://www.etsy.com/shop/MERYKSI)
-
----
-
-## 🌐 Personal Website
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mervanozg.github.io/personal_web_page/)
-
----
-
-## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,git,github,figma,ps" alt="tech icons" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔥 Rezit — Luxury Reservations
-- Stack: **React + Vite + Node.js + Express + MongoDB**  
-## 📌 Features
-- 🪑 Interactive seat map  
-- 🔐 Secure login (JWT + bcrypt)  
-- 🌍 Multi-language (TR / EN)  
-- 📷 File upload support  (super admin panel)
-- 🗄️ PostgreSQL relational structure  
-- ⚡ Fast frontend with Vite + React 19  
-- 🧪 Tested API endpoints (Jest + Supertest)
-
----
-- Branch: `version-1.0`
-
-### 🌐 Personal Web Page
-- Portfolio & landing page for design & dev work.  
-- Repo: `personal_web_page` [(GitHub Pages ready)](https://mervanozg.github.io/personal_web_page/)
-
----
-
-
----
-
-## 💬 Contact
-- ✉️ Email: **mervanozg@gmail.com**  
-- 🔗 Etsy: [MERYKSI](https://www.etsy.com/shop/MERYKSI)  
-- 📁 Personal repo: `mervanozg/personal_web_page`
-
-
-
-Thanks for visiting — if you like what you see, ⭐ star the repos!
+</div>
