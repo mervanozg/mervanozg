@@ -1,4 +1,4 @@
-# ✨ MERVAN ÖZGÖNÜL ✨
+  # ✨ MERVAN ÖZGÖNÜL ✨
 **Full-Stack Junior Developer • Designer • GIS**
 
 ---
@@ -36,14 +36,23 @@
 
 ## 📌 Featured Projects
 
-### 🔥 Rezit — Seat Reservation System
+### 🔥 Rezit — Luxury Reservations
 - Stack: **React + Vite + Node.js + Express + MongoDB**  
-- Features: seat selection, real-time availability, responsive UI.  
+## 📌 Features
+- 🪑 Interactive seat map  
+- 🔐 Secure login (JWT + bcrypt)  
+- 🌍 Multi-language (TR / EN)  
+- 📷 File upload support  (super admin panel)
+- 🗄️ PostgreSQL relational structure  
+- ⚡ Fast frontend with Vite + React 19  
+- 🧪 Tested API endpoints (Jest + Supertest)
+
+---
 - Branch: `version-1.0`
 
 ### 🌐 Personal Web Page
 - Portfolio & landing page for design & dev work.  
-- Repo: `personal_web_page` (GitHub Pages ready)
+- Repo: `personal_web_page` [(GitHub Pages ready)](https://mervanozg.github.io/personal_web_page/)
 
 ---
 
@@ -55,15 +64,6 @@
 - 🔗 Etsy: [MERYKSI](https://www.etsy.com/shop/MERYKSI)  
 - 📁 Personal repo: `mervanozg/personal_web_page`
 
----
 
-## ✨ Fun Extras
-- Random dev quote:  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-
-- Random meme (refresh page to change):  
-  <img src="https://random-memer.herokuapp.com/" width="320" alt="meme" />
-
----
 
 Thanks for visiting — if you like what you see, ⭐ star the repos!
